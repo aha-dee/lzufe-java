@@ -7,7 +7,7 @@ public class C { // 类
 
     }
 
-    ;
+
 
     static void m2() {   //类方法，静态方法
 //        f1 = 1;   //类方法不能访问实例变量
