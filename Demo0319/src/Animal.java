@@ -1,3 +1,6 @@
 public abstract class Animal{
-    public abstract void Introduce();
+
+    public abstract void introduce();
+
+    public abstract void cry();
 }
